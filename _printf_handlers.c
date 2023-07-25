@@ -4,11 +4,11 @@
  * @fmt: Formatted string in which to print the arguments.
  * @list: List of arguments to be printed.
  * @ind: ind.
- * @buffer: Buffer array to handle print.
- * @flags: Calculates active flags
- * @width: get width.
- * @precision: Precision specification
- * @size: Size specifier
+ * @buffer: array of buffers to use for printing
+ * @flags:  Calculates active flags
+ * @width: fecth the width of array
+ * @precision: specify precisions
+ * @size: specify sizes
  * Return: 1 or 2;
  */
 int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
