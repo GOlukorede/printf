@@ -1,11 +1,10 @@
 #include <limits.h>
 #include <stdio.h>
-#include "main.h"
+#include "printf.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0
+ * main -Start of code/Entry point
+ * Return: 0 anytime
  */
 int main(void)
 {
