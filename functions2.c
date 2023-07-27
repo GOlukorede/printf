@@ -3,12 +3,12 @@
 /****************** PRINT POINTER ******************/
 /**
  * print_pointer - Prints the value of a pointer variable
- * @types: array/lists of arg type
- * @buffer: array of print buffer
- * @flags: active flags
- * @width: specify output width
- * @precision: specify output precision
- * @size: specify output size
+ * @types: array/lists of arg type.
+ * @buffer: array of print buffer.
+ * @flags: active flags.
+ * @width: specify output width.
+ * @precision: specify output precision.
+ * @size: specify output size.
  * Return: count of printed  char.
  */
 int print_pointer(va_list types, char buffer[],
