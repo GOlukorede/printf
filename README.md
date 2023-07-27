@@ -6,5 +6,5 @@ _printf write formated strings to stdout
 
 
 ### ABOUT
-#### This is an alx enginnering collaboratory project
+#### This is an alx engineering collaboratory project
 #### between Olukorede Samson and Hezekiah Olushola
