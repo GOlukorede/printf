@@ -4,7 +4,7 @@
  * @format: format for printing arg
  * @i: array of args to print
  * @list: arg list
- * Return: width of output
+ * Return: width of output.
  */
 int get_width(const char *format, int *i, va_list list)
 {
