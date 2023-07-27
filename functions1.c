@@ -3,14 +3,14 @@
 /************** PRINT HEXX NUM IN LOWER OR UPPER **************/
 /**
  * print_hexa - Prints a hexadecimal number in lower or upper
- * @types: arg type list
+ * @types: arg type list.
  * @map_to: map number to an array of value map_to
- * @buffer: array of print buffer
- * @flags: active flags
- * @flag_ch: active flags
- * @width: output width
- * @precision: specify output precision
- * @size: specify output size
+ * @buffer: array of print buffer.
+ * @flags: active flags.
+ * @flag_ch: active flags.
+ * @width: output width.
+ * @precision: specify output precision.
+ * @size: specify output size.
  * Return: count of printed characters.
  */
 int print_hexa(va_list types, char map_to[], char buffer[],
