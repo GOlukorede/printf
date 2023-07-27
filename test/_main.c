@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main -Start of code/Entry point
+ * main -Start of code/Entry point.
  * Return: 0 anytime.
  */
 int main(void)
