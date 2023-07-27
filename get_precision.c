@@ -2,9 +2,9 @@
 
 /**
  * get_precision - printing precision
- * @format: format for printing arg
- * @i: list/array of arg to print
- * @list: arg list
+ * @format: format for printing arg.
+ * @i: list/array of arg to print.
+ * @list: arg list.
  * Return: precision of the output.
  */
 int get_precision(const char *format, int *i, va_list list)
