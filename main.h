@@ -22,7 +22,7 @@
  * struct fmt - Struct op
  *
  * @fmt: format
- * @fn: function pointers
+ * @fn: function pointers;
  */
 struct fmt
 {
