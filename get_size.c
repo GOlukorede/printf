@@ -5,7 +5,7 @@
  * @format: format for printing
  * @i: array ir list of arguments to be printed
  *
- * Return: precision of formatted output
+ * Return: precision of formatted output.
  */
 int get_size(const char *format, int *i)
 {
