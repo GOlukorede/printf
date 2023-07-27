@@ -11,7 +11,7 @@
  * @width: output width
  * @precision: specify output precision
  * @size: specify output size
- * Return: count of printed characters
+ * Return: count of printed characters.
  */
 int print_hexa(va_list types, char map_to[], char buffer[],
 	int flags, char flag_ch, int width, int precision, int size)
