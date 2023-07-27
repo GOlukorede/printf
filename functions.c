@@ -3,13 +3,13 @@
 /************** PRINT A CHARACTER **************/
 
 /**
- * print_char - print a character to stdout
- * @types: arg type list
- * @buffer: array of print buffer
- * @flags: active flags
- * @width: output width
- * @precision: specify output precision
- * @size: specify output size
+ * print_char - print a character to stdout.
+ * @types: arg type list.
+ * @buffer: array of print buffer.
+ * @flags: active flags.
+ * @width: output width.
+ * @precision: specify output precision.
+ * @size: specify output size.
  * Return: count of printed characters.
  */
 int print_char(va_list types, char buffer[],
