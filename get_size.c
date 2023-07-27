@@ -2,8 +2,8 @@
 
 /**
  * get_size - calculate the size for casting arguments
- * @format: format for printing
- * @i: array ir list of arguments to be printed
+ * @format: format for printing.
+ * @i: array ir list of arguments to be printed.
  *
  * Return: precision of formatted output.
  */
