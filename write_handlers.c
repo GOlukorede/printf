@@ -9,7 +9,7 @@
  * @width: width of array
  * @precision: specify precisions
  * @size: specify sizes
- * Return: count of characters to be printed
+ * Return: count of characters to be printed;
  */
 int handle_write_char(char c, char buffer[],
 	int flags, int width, int precision, int size)
