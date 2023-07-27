@@ -5,7 +5,7 @@
  * @format: format for printing arg
  * @i: list/array of arg to print
  * @list: arg list
- * Return: precision of the output
+ * Return: precision of the output.
  */
 int get_precision(const char *format, int *i, va_list list)
 {
