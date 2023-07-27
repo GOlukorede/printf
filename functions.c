@@ -10,7 +10,7 @@
  * @width: output width
  * @precision: specify output precision
  * @size: specify output size
- * Return: count of printed characters
+ * Return: count of printed characters.
  */
 int print_char(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
