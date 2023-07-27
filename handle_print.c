@@ -8,7 +8,7 @@
  * @flags:  active flags
  * @width: fecth the width of array
  * @precision: specify precisions
- * @size: specify sizes
+ * @size: specify sizes.
  * Return: 1 on success or 2 on error;
  */
 int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
