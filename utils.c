@@ -3,7 +3,7 @@
 /**
  * is_printable - check if an item is printable
  * @c: input
- * Return: if printable 1, else 0
+ * Return: if printable 1, else  0
  */
 int is_printable(char c)
 {
