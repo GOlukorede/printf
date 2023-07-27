@@ -6,7 +6,7 @@
  * @ind: index
  * @buffer: array of print buffers
  * @flags:  active flags
- * @width: fecth the width of array
+ * @width: fetch the width of array
  * @precision: specify precisions
  * @size: specify sizes.
  * Return: 1 on success or 2 on error;
