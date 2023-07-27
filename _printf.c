@@ -4,7 +4,7 @@ void print_buffer(char buffer[], int *buff_ind);
 /**
  * _printf - local function (works like prinf library function)
  * @format: this takes care of
- * formatting (eg. %s, &lu, etc. in C printf function)
+ * formatting (eg. %s, &lu, etc in C printf function)
  * Return: outputs...
  */
 int _printf(const char *format, ...)
