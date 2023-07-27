@@ -4,7 +4,7 @@
 
 /**
  * main -Start of code/Entry point
- * Return: 0 anytime
+ * Return: 0 anytime.
  */
 int main(void)
 {
