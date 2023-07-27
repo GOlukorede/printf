@@ -3,7 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 /**
  * _printf - local function (works like prinf library function)
- * @format: this take care of
+ * @format: this takes care of
  * formatting (eg. %s, &lu, etc. in C printf function)
  * Return: outputs...
  */
